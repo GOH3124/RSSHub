@@ -2,7 +2,7 @@
 // https://github.com/devcontainers/images/blob/v0.3.24/src/javascript-node/.devcontainer/devcontainer.json
 {
     "name": "Node.js",
-    "image": "mcr.microsoft.com/devcontainers/javascript-node:22-bookworm",
+    "image": "mcr.microsoft.com/devcontainers/javascript-node:20-bookworm",
 
     // Configure tool-specific properties.
     "customizations": {
